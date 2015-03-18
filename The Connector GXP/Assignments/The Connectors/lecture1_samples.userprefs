@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="tilebased_world.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TileWorldView.cs">
+    <Files>
+      <File FileName="MyGame.cs" Line="1" Column="1" />
+      <File FileName="TileWorldModel.cs" Line="15" Column="15" />
+      <File FileName="TileWorldView.cs" Line="3" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

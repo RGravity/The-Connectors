@@ -1,0 +1,7 @@
+D:\School\Saxion\Game AI\Assignments\Assignments\Assignment 1\bin\Debug\GXPEngine.exe
+D:\School\Saxion\Game AI\Assignments\Assignments\Assignment 1\bin\Debug\GXPEngine.pdb
+D:\School\Saxion\Game AI\Assignments\Assignments\Assignment 1\obj\x86\Debug\Assignment 1.csprojResolveAssemblyReference.cache
+D:\School\Saxion\Game AI\Assignments\Assignments\Assignment 1\obj\x86\Debug\GXPEngine.exe
+D:\School\Saxion\Game AI\Assignments\Assignments\Assignment 1\obj\x86\Debug\GXPEngine.pdb
+D:\School\Saxion\Game Interaction\The Connector GXP\Assignments\The Connectors\obj\x86\Debug\GXPEngine.exe
+D:\School\Saxion\Game Interaction\The Connector GXP\Assignments\The Connectors\obj\x86\Debug\GXPEngine.pdb
