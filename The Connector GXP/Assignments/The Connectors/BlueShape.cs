@@ -15,6 +15,8 @@ namespace GXPEngine
         {
             _shapeID = shapeID;
             _connectionsAvailable = connectionsFree;
+
+            this.SetOrigin(this.width / 2, this.height / 2);
         }
     }
 }
