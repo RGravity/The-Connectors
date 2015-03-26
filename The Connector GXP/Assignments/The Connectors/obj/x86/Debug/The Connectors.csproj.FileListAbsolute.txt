@@ -3,3 +3,5 @@ D:\School\Saxion\Game Interaction\The Connector GXP\Assignments\The Connectors\b
 D:\School\Saxion\Game Interaction\The Connector GXP\Assignments\The Connectors\obj\x86\Debug\The Connectors.csprojResolveAssemblyReference.cache
 D:\School\Saxion\Game Interaction\The Connector GXP\Assignments\The Connectors\obj\x86\Debug\GXPEngine.exe
 D:\School\Saxion\Game Interaction\The Connector GXP\Assignments\The Connectors\obj\x86\Debug\GXPEngine.pdb
+D:\School\Saxion\Game Interaction\The-Connectors\The Connector GXP\Assignments\The Connectors\obj\x86\Debug\GXPEngine.exe
+D:\School\Saxion\Game Interaction\The-Connectors\The Connector GXP\Assignments\The Connectors\obj\x86\Debug\GXPEngine.pdb

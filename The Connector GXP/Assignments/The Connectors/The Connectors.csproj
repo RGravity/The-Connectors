@@ -37,9 +37,11 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <Compile Include="BlueShape.cs" />
     <Compile Include="Components\Ball.cs" />
     <Compile Include="Components\Square.cs" />
     <Compile Include="Components\TextField.cs" />
+    <Compile Include="GreenShape.cs" />
     <Compile Include="Level.cs" />
     <Compile Include="MyGame.cs" />
     <Compile Include="..\..\GXPEngine\sources\GXPEngine\AnimSprite.cs">
@@ -123,6 +125,8 @@
     <Compile Include="..\..\Components\IntVec2.cs">
       <Link>Components\IntVec2.cs</Link>
     </Compile>
+    <Compile Include="PinkShape.cs" />
+    <Compile Include="YellowShape.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\GXPEngine\sources\changelog.txt">
