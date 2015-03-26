@@ -5,7 +5,16 @@ using System.Text;
 
 namespace GXPEngine
 {
-    class PinkShape
+    class PinkShape : Canvas
     {
+        private int _shapeID = 0;
+        private const int _connectorType = 4;
+        private int _connectionsAvailable = 4;
+
+        public PinkShape(int shapeID, int connectionsFree) : base(@"Assets\Shapes\PinkShape.png")
+        {
+            _shapeID = shapeID;
+            _connectionsAvailable = connectionsFree;
+        }
     }
 }
